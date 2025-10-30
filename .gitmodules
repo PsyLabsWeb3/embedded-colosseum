@@ -1,9 +1,9 @@
-[submodule "backend"]
-	path = backend
+[submodule "embedded-backend"]
+	path = embedded-backend
 	url = https://github.com/PsyLabsWeb3/embedded-backend.git
-[submodule "frontend"]
-	path = frontend
+[submodule "embedded-frontend"]
+	path = embedded-frontend
 	url = https://github.com/PsyLabsWeb3/embedded-frontend.git
-[submodule "unity"]
-	path = unity
+[submodule "embedded-Unity"]
+	path = embedded-Unity
 	url = https://github.com/PsyLabsWeb3/embedded-Unity.git
