@@ -6,9 +6,9 @@ This repository contains the three main components of the Colosseum project as s
 
 The project is divided into three main components:
 
-- **Backend**: [embedded-backend](backend/) - Contains the backend services
-- **Frontend**: [embedded-frontend](frontend/) - Contains the frontend application  
-- **Unity**: [embedded-Unity](unity/) - Contains the Unity game client
+- **Backend**: [embedded-backend](https://github.com/PsyLabsWeb3/embedded-backend) - Contains the backend services
+- **Frontend**: [embedded-frontend](https://github.com/PsyLabsWeb3/embedded-frontend) - Contains the frontend application  
+- **Unity**: [embedded-Unity](https://github.com/PsyLabsWeb3/embedded-Unity) - Contains the Unity game client
 
 ## Purpose
 
